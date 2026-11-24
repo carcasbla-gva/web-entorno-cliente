@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Índice local de ejercicios resueltos de JavaScript puro: fundamentos, DOM, eventos, formularios, BOM y almacenamiento.">
+  <title>Ejercicios de JavaScript · Referencia rápida</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="datos.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#inicio" aria-label="Índice de ejercicios"><span class="brand-mark">JS</span><span>Cuaderno <span class="brand-muted">/ JavaScript puro</span></span></a>
+    <p class="topbar-note">DOM · Eventos · Formularios · BOM · Storage</p>
+  </header>
+  <div class="workspace" id="inicio">
+    <aside class="sidebar" aria-label="Índice de ejercicios">
+      <div class="sidebar-heading"><div><p class="eyebrow">BIBLIOTECA</p><h1>Ejercicios</h1></div><span id="total-count" class="count-pill">0</span></div>
+      <label class="search-label" for="search">Buscar por título o código</label>
+      <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="p. ej. localStorage" autocomplete="off"><kbd>⌘ K</kbd></div>
+      <p class="search-hint">Busca términos dentro de tus archivos JavaScript y HTML.</p>
+      <nav id="exercise-list" class="exercise-list" aria-label="Ejercicios por bloque"></nav>
+      <p id="list-empty" class="empty-state" hidden>No hay ejercicios que coincidan.</p>
+      <p class="sidebar-footer">Código fuente original, sin dependencias externas.</p>
+    </aside>
+    <main class="main-content">
+      <section id="welcome" class="welcome" aria-labelledby="welcome-title">
+        <p class="eyebrow">REFERENCIA RÁPIDA</p><h2 id="welcome-title">JavaScript puro, sin rodeos.</h2>
+        <p class="welcome-copy">Encuentra una solución por tema o por una palabra clave del código, prueba el ejercicio y copia los archivos que necesitás.</p>
+        <div class="welcome-stats"><article><strong id="welcome-exercises">0</strong><span>ejercicios</span></article><article><strong id="welcome-files">0</strong><span>archivos fuente</span></article><article><strong>⌕</strong><span>búsqueda en código</span></article></div>
+        <p class="server-note">El catálogo está integrado en la página: funciona en GitHub Pages y servido desde una carpeta local.</p>
+      </section>
+      <section id="viewer" class="viewer" aria-labelledby="exercise-title" hidden>
+        <div class="exercise-heading"><div><p id="exercise-block" class="eyebrow"></p><h2 id="exercise-title"></h2><p id="exercise-path" class="file-path"></p></div><a id="open-exercise" class="open-link" target="_blank" rel="noopener">Abrir ejercicio ↗</a></div>
+        <div class="viewer-grid">
+          <article class="panel preview-panel" aria-labelledby="preview-title"><div class="panel-heading"><div><span class="panel-kicker">01 / PRUEBA</span><h3 id="preview-title">Ejecución en vivo</h3></div><span class="live-badge"><i></i> Vista previa</span></div><iframe id="preview-frame" title="Ejecución en vivo del ejercicio" loading="lazy"></iframe></article>
+          <article class="panel code-panel" aria-labelledby="code-title"><div class="panel-heading"><div><span class="panel-kicker">02 / CÓDIGO FUENTE</span><h3 id="code-title">Archivos del ejercicio</h3></div><span id="copy-feedback" role="status" aria-live="polite"></span></div><div id="file-tabs" class="file-tabs" role="tablist" aria-label="Archivos fuente"></div><div class="code-meta"><span id="active-file-path"></span><button id="copy-code" class="copy-button" type="button" disabled>Copiar código</button></div><pre class="code-view"><code id="source-code"></code></pre></article>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
