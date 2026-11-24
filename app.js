@@ -33,7 +33,11 @@
       if (!groups.has(exercise.bloque)) groups.set(exercise.bloque, []);
       groups.get(exercise.bloque).push(exercise);
     });
-    groups.forEach(function (items, groupName) {
+    Array.from(groups.entries()).sort(function (left, right) {
+      return left[1][0].ordenBloque - right[1][0].ordenBloque;
+    }).forEach(function (entry) {
+      var groupName = entry[0];
+      var items = entry[1];
       var heading = document.createElement('h2');
       heading.className = 'group-title';
       heading.textContent = groupName;
