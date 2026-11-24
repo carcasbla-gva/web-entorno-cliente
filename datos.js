@@ -85,7 +85,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 1 · Ejercicio 1 - DOM Párrafos",
+    "titulo": "Ejercicio 1 · DOM Párrafos",
     "ruta": "Castaños_Carlos_bloq1prac3/Ejercicio_1",
     "ejecucion": "./Castaños_Carlos_bloq1prac3/Ejercicio_1/index.html",
     "archivos": [
@@ -110,7 +110,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 2 · Ejercicio 2 - DOM Lista Animales",
+    "titulo": "Ejercicio 2 · DOM Lista Animales",
     "ruta": "Castaños_Carlos_bloq1prac3/Ejercicio_2",
     "ejecucion": "./Castaños_Carlos_bloq1prac3/Ejercicio_2/index.html",
     "archivos": [
@@ -134,7 +134,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "DOM"
     ],
-    "titulo": "Ejercicio 3 · Ejercicio 3 - Colores DOM",
+    "titulo": "Ejercicio 3 · Colores DOM",
     "ruta": "Castaños_Carlos_bloq1prac3/Ejercicio_3",
     "ejecucion": "./Castaños_Carlos_bloq1prac3/Ejercicio_3/index.html",
     "archivos": [
@@ -159,7 +159,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 4 · Ejercicio 4 - Conteo de Elementos DOM",
+    "titulo": "Ejercicio 4 · Conteo de Elementos DOM",
     "ruta": "Castaños_Carlos_bloq1prac3/Ejercicio_4",
     "ejecucion": "./Castaños_Carlos_bloq1prac3/Ejercicio_4/index.html",
     "archivos": [
@@ -183,7 +183,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "DOM"
     ],
-    "titulo": "Ejercicio 5 · Ejercicio 5 - Creación con Atributos",
+    "titulo": "Ejercicio 5 · Creación con Atributos",
     "ruta": "Castaños_Carlos_bloq1prac3/Ejercicio_5",
     "ejecucion": "./Castaños_Carlos_bloq1prac3/Ejercicio_5/index.html",
     "archivos": [
@@ -206,7 +206,7 @@ const DATOS_EJERCICIOS = [
     "temas": [
       "Fundamentos"
     ],
-    "titulo": "Ejercicio 1 · Ejercicio 1 - Eventos con this",
+    "titulo": "Ejercicio 1 · Eventos con this",
     "ruta": "Castaños_Carlos_bloq1prac4/Ejercicio_1",
     "ejecucion": "./Castaños_Carlos_bloq1prac4/Ejercicio_1/index.html",
     "archivos": [
@@ -231,7 +231,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 2 · Ejercicio 2 - Eventos Semánticos",
+    "titulo": "Ejercicio 2 · Eventos Semánticos",
     "ruta": "Castaños_Carlos_bloq1prac4/Ejercicio_2",
     "ejecucion": "./Castaños_Carlos_bloq1prac4/Ejercicio_2/index.html",
     "archivos": [
@@ -256,7 +256,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 3 · Ejercicio 3 - Objeto Event",
+    "titulo": "Ejercicio 3 · Objeto Event",
     "ruta": "Castaños_Carlos_bloq1prac4/Ejercicio_3",
     "ejecucion": "./Castaños_Carlos_bloq1prac4/Ejercicio_3/index.html",
     "archivos": [
@@ -282,7 +282,7 @@ const DATOS_EJERCICIOS = [
       "Eventos",
       "BOM"
     ],
-    "titulo": "Ejercicio 4 · Ejercicio 4 - Listeners Compatibles",
+    "titulo": "Ejercicio 4 · Listeners Compatibles",
     "ruta": "Castaños_Carlos_bloq1prac4/Ejercicio_4",
     "ejecucion": "./Castaños_Carlos_bloq1prac4/Ejercicio_4/index.html",
     "archivos": [
@@ -308,7 +308,7 @@ const DATOS_EJERCICIOS = [
       "Eventos",
       "BOM"
     ],
-    "titulo": "Ejercicio 5 · Ejercicio 5 - Solo Números",
+    "titulo": "Ejercicio 5 · Solo Números",
     "ruta": "Castaños_Carlos_bloq1prac4/Ejercicio_5",
     "ejecucion": "./Castaños_Carlos_bloq1prac4/Ejercicio_5/index.html",
     "archivos": [
@@ -333,7 +333,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 6 · Ejercicio 6 - Botones Dinámicos",
+    "titulo": "Ejercicio 6 · Botones Dinámicos",
     "ruta": "Castaños_Carlos_bloq1prac4/Ejercicio_6",
     "ejecucion": "./Castaños_Carlos_bloq1prac4/Ejercicio_6/index.html",
     "archivos": [
@@ -358,7 +358,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 7 · Ejercicio 7 - Reloj Digital",
+    "titulo": "Ejercicio 7 · Reloj Digital",
     "ruta": "Castaños_Carlos_bloq1prac4/Ejercicio_7",
     "ejecucion": "./Castaños_Carlos_bloq1prac4/Ejercicio_7/index.html",
     "archivos": [
@@ -382,7 +382,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 1 · Ejercicio 1",
+    "titulo": "Ejercicio 1",
     "ruta": "Castaños_Carlos_anexoprac2/Ejercicio_1",
     "ejecucion": "./Castaños_Carlos_anexoprac2/Ejercicio_1/index.html",
     "archivos": [
@@ -408,7 +408,7 @@ const DATOS_EJERCICIOS = [
       "Formularios",
       "BOM"
     ],
-    "titulo": "Ejercicio 2 · Ejercicio 2",
+    "titulo": "Ejercicio 2",
     "ruta": "Castaños_Carlos_anexoprac2/Ejercicio_2",
     "ejecucion": "./Castaños_Carlos_anexoprac2/Ejercicio_2/index.html",
     "archivos": [
@@ -433,7 +433,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "Formularios"
     ],
-    "titulo": "Ejercicio 3 · Ejercicio 3",
+    "titulo": "Ejercicio 3",
     "ruta": "Castaños_Carlos_anexoprac2/Ejercicio_3",
     "ejecucion": "./Castaños_Carlos_anexoprac2/Ejercicio_3/index.html",
     "archivos": [
@@ -459,7 +459,7 @@ const DATOS_EJERCICIOS = [
       "Formularios",
       "BOM"
     ],
-    "titulo": "Ejercicio 4 · Ejercicio 4",
+    "titulo": "Ejercicio 4",
     "ruta": "Castaños_Carlos_anexoprac2/Ejercicio_4",
     "ejecucion": "./Castaños_Carlos_anexoprac2/Ejercicio_4/index.html",
     "archivos": [
@@ -483,7 +483,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 5 · Ejercicio 5",
+    "titulo": "Ejercicio 5",
     "ruta": "Castaños_Carlos_anexoprac2/Ejercicio_5",
     "ejecucion": "./Castaños_Carlos_anexoprac2/Ejercicio_5/index.html",
     "archivos": [
@@ -507,7 +507,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "DOM"
     ],
-    "titulo": "Ejercicio 6 · Ejercicio 6",
+    "titulo": "Ejercicio 6",
     "ruta": "Castaños_Carlos_anexoprac2/Ejercicio_6",
     "ejecucion": "./Castaños_Carlos_anexoprac2/Ejercicio_6/index.html",
     "archivos": [
@@ -630,7 +630,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 1 · Ejercicio 1",
+    "titulo": "Ejercicio 1",
     "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_1",
     "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_1/index.html",
     "archivos": [
@@ -654,7 +654,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 2 · Ejercicio 2",
+    "titulo": "Ejercicio 2",
     "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_2",
     "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_2/index.html",
     "archivos": [
@@ -678,7 +678,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 3 · Ejercicio 3",
+    "titulo": "Ejercicio 3",
     "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_3",
     "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_3/index.html",
     "archivos": [
@@ -702,7 +702,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 4 · Ejercicio 4",
+    "titulo": "Ejercicio 4",
     "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_4",
     "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_4/index.html",
     "archivos": [
@@ -725,7 +725,7 @@ const DATOS_EJERCICIOS = [
     "temas": [
       "BOM"
     ],
-    "titulo": "Ejercicio 5 · Ejercicio 5",
+    "titulo": "Ejercicio 5",
     "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_5",
     "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_5/index.html",
     "archivos": [
@@ -749,7 +749,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "DOM"
     ],
-    "titulo": "Ejercicio 6 · Ejercicio 6",
+    "titulo": "Ejercicio 6",
     "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_6",
     "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_6/index.html",
     "archivos": [
@@ -773,7 +773,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 1 · Ejercicio 1",
+    "titulo": "Ejercicio 1",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_1",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_1/index.html",
     "archivos": [
@@ -797,7 +797,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 2 · Ejercicio 2",
+    "titulo": "Ejercicio 2",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_2",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_2/index.html",
     "archivos": [
@@ -821,7 +821,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 3 · Ejercicio 3",
+    "titulo": "Ejercicio 3",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_3",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_3/index.html",
     "archivos": [
@@ -845,7 +845,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "BOM"
     ],
-    "titulo": "Ejercicio 4 · Ejercicio 4",
+    "titulo": "Ejercicio 4",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_4",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_4/index.html",
     "archivos": [
@@ -869,7 +869,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "DOM"
     ],
-    "titulo": "Ejercicio 5 · Ejercicio 5",
+    "titulo": "Ejercicio 5",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_5",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_5/index.html",
     "archivos": [
@@ -893,7 +893,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "DOM"
     ],
-    "titulo": "Ejercicio 6 · Ejercicio 6",
+    "titulo": "Ejercicio 6",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_6",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_6/index.html",
     "archivos": [
@@ -917,7 +917,7 @@ const DATOS_EJERCICIOS = [
       "Fundamentos",
       "DOM"
     ],
-    "titulo": "Ejercicio 7 · Ejercicio 7",
+    "titulo": "Ejercicio 7",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_7",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_7/index.html",
     "archivos": [
@@ -942,7 +942,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 8 · Ejercicio 8",
+    "titulo": "Ejercicio 8",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_8",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_8/index.html",
     "archivos": [
@@ -967,7 +967,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 9 · Ejercicio 9",
+    "titulo": "Ejercicio 9",
     "ruta": "Castaños_Carlos_bloq1prac2/Ejercicio_9",
     "ejecucion": "./Castaños_Carlos_bloq1prac2/Ejercicio_9/index.html",
     "archivos": [
@@ -994,7 +994,7 @@ const DATOS_EJERCICIOS = [
       "Formularios",
       "BOM"
     ],
-    "titulo": "Ejercicio 1 · Ejercicio 1 - Formulario",
+    "titulo": "Ejercicio 1 · Formulario",
     "ruta": "Castanos_Carlos_bloq1prac5/Ejercicio_1",
     "ejecucion": "./Castanos_Carlos_bloq1prac5/Ejercicio_1/index.html",
     "archivos": [
@@ -1020,7 +1020,7 @@ const DATOS_EJERCICIOS = [
       "Formularios",
       "BOM"
     ],
-    "titulo": "Ejercicio 2 · Ejercicio 2 - Color Lista",
+    "titulo": "Ejercicio 2 · Color Lista",
     "ruta": "Castanos_Carlos_bloq1prac5/Ejercicio_2",
     "ejecucion": "./Castanos_Carlos_bloq1prac5/Ejercicio_2/index.html",
     "archivos": [
@@ -1046,7 +1046,7 @@ const DATOS_EJERCICIOS = [
       "Formularios",
       "BOM"
     ],
-    "titulo": "Ejercicio 3 · Ejercicio 3 - Color Radio",
+    "titulo": "Ejercicio 3 · Color Radio",
     "ruta": "Castanos_Carlos_bloq1prac5/Ejercicio_3",
     "ejecucion": "./Castanos_Carlos_bloq1prac5/Ejercicio_3/index.html",
     "archivos": [
@@ -1071,7 +1071,7 @@ const DATOS_EJERCICIOS = [
       "DOM",
       "BOM"
     ],
-    "titulo": "Ejercicio 4 · Ejercicio 4 - Estilos Checkbox",
+    "titulo": "Ejercicio 4 · Estilos Checkbox",
     "ruta": "Castanos_Carlos_bloq1prac5/Ejercicio_4",
     "ejecucion": "./Castanos_Carlos_bloq1prac5/Ejercicio_4/index.html",
     "archivos": [
