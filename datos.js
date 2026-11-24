@@ -7,18 +7,18 @@ const DATOS_EJERCICIOS = [
       "BOM"
     ],
     "titulo": "Ejercicio 1",
-    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_1",
-    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_1/index.html",
+    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_1",
+    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_1/index.html",
     "archivos": [
       {
         "nombre": "App.js",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_1/App.js",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_1/App.js",
         "tipo": "javascript",
         "contenido": "let suma = 0;\nlet mayores100 = 0;\n\nfor (let i = 1; i <= 5; i++) {\n    let num = parseInt(prompt(`Introduce el número ${i}:`));\n    suma += num;\n    if (num >= 100) {\n    mayores100++;\n    }\n}\n\nalert(`Suma total: ${suma} \\n Mayores de 100: ${mayores100}`);\nconsole.log(`Suma total: ${suma}`);\nconsole.log(`Mayores de 100: ${mayores100}`);"
       },
       {
         "nombre": "index.html",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_1/index.html",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_1/index.html",
         "tipo": "html",
         "contenido": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <script src=\"App.js\"></script>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Ejercicio 1</title>\n</head>\n<body>\n</body>\n</html>"
       }
@@ -32,18 +32,18 @@ const DATOS_EJERCICIOS = [
       "BOM"
     ],
     "titulo": "Ejercicio 2",
-    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_2",
-    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_2/index.html",
+    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_2",
+    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_2/index.html",
     "archivos": [
       {
         "nombre": "App.js",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_2/App.js",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_2/App.js",
         "tipo": "javascript",
         "contenido": "let numeros = [7, 8, 2, 9, 10];\nlet sumaMayores8 = 0;\n\nfor (let n of numeros) {\n    if (n > 8) {\n    sumaMayores8 += n;\n    }\n}\n\nalert(`Suma de los mayores de 8: ${sumaMayores8}`);\nconsole.log(`Suma de los mayores de 8: ${sumaMayores8}`);"
       },
       {
         "nombre": "index.html",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_2/index.html",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_2/index.html",
         "tipo": "html",
         "contenido": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <script src=\"App.js\"></script>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Ejercicio 2</title>\n</head>\n<body>\n</body>\n</html>"
       }
@@ -57,18 +57,18 @@ const DATOS_EJERCICIOS = [
       "BOM"
     ],
     "titulo": "Ejercicio 3",
-    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_3",
-    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_3/index.html",
+    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_3",
+    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_3/index.html",
     "archivos": [
       {
         "nombre": "App.js",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_3/App.js",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_3/App.js",
         "tipo": "javascript",
         "contenido": "let mes = prompt(\"Dime un mes:\").toLowerCase();\n\nswitch (mes) {\n    case \"diciembre\":\n    case \"enero\":\n    case \"febrero\":\n        alert(\"Estamos en Invierno\");\n        break;\n    case \"marzo\":\n    case \"abril\":\n    case \"mayo\":\n        alert(\"Estamos en Primavera\");\n        break;\n    case \"junio\":\n    case \"julio\":\n    case \"agosto\":\n        alert(\"Estamos en Verano\");\n        break;\n    case \"septiembre\":\n    case \"octubre\":\n    case \"noviembre\":\n        alert(\"Estamos en Otoño\");\n        break;\n    default:\n        alert(\"Mes no reconocido\");\n}"
       },
       {
         "nombre": "index.html",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_3/index.html",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_3/index.html",
         "tipo": "html",
         "contenido": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <script src=\"App.js\"></script>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Ejercicio 3</title>\n</head>\n<body>\n</body>\n</html>"
       }
@@ -82,18 +82,18 @@ const DATOS_EJERCICIOS = [
       "BOM"
     ],
     "titulo": "Ejercicio 4",
-    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_4",
-    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_4/index.html",
+    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_4",
+    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_4/index.html",
     "archivos": [
       {
         "nombre": "App.js",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_4/App.js",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_4/App.js",
         "tipo": "javascript",
         "contenido": "const num = parseInt(prompt(\"Introduce un número:\"), 10);\n\nif (num % 2 === 0) {\n    alert(`El número ${num} es par.`);\n} else {\n    alert(`El número ${num} es impar.`);\n}"
       },
       {
         "nombre": "index.html",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_4/index.html",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_4/index.html",
         "tipo": "html",
         "contenido": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <script src=\"App.js\"></script>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Ejercicio 4</title>\n</head>\n<body>\n</body>\n</html>"
       }
@@ -106,18 +106,18 @@ const DATOS_EJERCICIOS = [
       "BOM"
     ],
     "titulo": "Ejercicio 5",
-    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_5",
-    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_5/index.html",
+    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_5",
+    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_5/index.html",
     "archivos": [
       {
         "nombre": "App.js",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_5/App.js",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_5/App.js",
         "tipo": "javascript",
         "contenido": "let precio = parseFloat(prompt(\"Introduce el precio del artículo:\"));\nlet tipoIva = 0.21;\n\nlet iva = precio * tipoIva;\nlet total = precio + iva;\n\nalert(`Precio base: ${precio.toFixed(2)} € \\n IVA 21%: ${iva.toFixed(2)} € \\n Total: ${total.toFixed(2)} €`);\nconsole.log(`IVA: ${iva.toFixed(2)} €`);\nconsole.log(`Total con IVA: ${total.toFixed(2)} €`);"
       },
       {
         "nombre": "index.html",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_5/index.html",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_5/index.html",
         "tipo": "html",
         "contenido": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <script src=\"App.js\"></script>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Ejercicio 5</title>\n</head>\n<body>\n</body>\n</html>"
       }
@@ -131,18 +131,18 @@ const DATOS_EJERCICIOS = [
       "DOM"
     ],
     "titulo": "Ejercicio 6",
-    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_6",
-    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_6/index.html",
+    "ruta": "Castaños_Carlos_bloq1prac1/Ejercicio_6",
+    "ejecucion": "./Castaños_Carlos_bloq1prac1/Ejercicio_6/index.html",
     "archivos": [
       {
         "nombre": "App.js",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_6/App.js",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_6/App.js",
         "tipo": "javascript",
         "contenido": "let cadena = prompt('Introduce una cadena: ');\nlet palabras = cadena.split(' ');\n\ndocument.write(`La longitud de la cadena es ${cadena.length}<br>\nLa cadena en mayusculas es ${cadena.toUpperCase()}<br>\nLa cadena en minusculas es ${cadena.toLowerCase()}<br>\n`);\n\ndocument.write('CADENA NORMAL<br>');\nfor (let i = 0; i < palabras.length; i++) {\ndocument.write(`${palabras[i]}<br>`);\n}\n\ndocument.write('CADENA AL REVÉS<br>');\nfor (let i = palabras.length - 1; i >= 0; i--) {\ndocument.write(`${palabras[i]}<br>`);\n}"
       },
       {
         "nombre": "index.html",
-        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_6/index.html",
+        "ruta": "./Castaños_Carlos_bloq1prac1/Ejercicio_6/index.html",
         "tipo": "html",
         "contenido": "<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <script src=\"App.js\"></script>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Ejercicio 6</title>\n</head>\n<body>\n    <noscript>Necesitas habilitar JavaScript para poder ver este contenido.</noscript>\n</body>\n</html>"
       }
