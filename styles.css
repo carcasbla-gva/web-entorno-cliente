@@ -13,3 +13,33 @@
 .welcome-stats article:nth-child(3){animation-delay:.32s}
 .viewer{animation:enter-from-bottom .5s cubic-bezier(.2,.75,.25,1) both}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+
+
+/* Adaptación de la vista de ejercicio a tablets y móviles. */
+.main-content,.viewer,.viewer-grid,.panel{min-width:0}
+@media(max-width:1100px){
+  .workspace{grid-template-columns:260px minmax(0,1fr)}
+  .viewer-grid{grid-template-columns:minmax(0,1fr)}
+  .preview-panel iframe{height:clamp(300px,52vh,540px);min-height:300px}
+  .code-view{height:clamp(320px,58vh,650px);min-height:320px}
+}
+@media(max-width:650px){
+  body{overflow-x:hidden}
+  .topbar{gap:8px;min-height:58px;height:auto;padding:10px 14px}
+  .topbar-note{display:none}
+  .brand{min-width:0;font-size:12px}
+  .brand-muted{font-size:11px}
+  .workspace{grid-template-columns:minmax(0,1fr)}
+  .main-content{padding:20px 12px}
+  .exercise-heading{align-items:flex-start;flex-direction:column;gap:12px}
+  .exercise-heading h2{font-size:clamp(19px,6vw,24px);overflow-wrap:anywhere}
+  .file-path{max-width:100%;overflow-wrap:anywhere}
+  .viewer-grid{gap:12px}
+  .panel-heading{padding:0 12px}
+  .preview-panel iframe{height:clamp(250px,45vh,380px);min-height:250px}
+  .file-tabs{padding-inline:8px}
+  .file-tab{padding-inline:8px}
+  .code-meta{height:auto;min-height:40px;gap:8px;padding:6px 10px;flex-wrap:wrap}
+  .code-meta>span{min-width:0;overflow-wrap:anywhere}
+  .code-view{height:55vh;min-height:280px;padding:12px;font-size:10px}
+}
